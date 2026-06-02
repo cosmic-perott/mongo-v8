@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ###
-<img width="619" height="53" alt="Screenshot 2026-05-28 at 9 21 32 PM" src="https://github.com/user-attachments/assets/ce6d0a22-e0ff-41e2-bf57-73b5c5b275ee" />
+
 
 
 
